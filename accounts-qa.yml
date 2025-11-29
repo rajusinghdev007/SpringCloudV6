@@ -1,8 +1,8 @@
 build:
-  version: "3.0"
+  version: "1.0.0"
 
 accounts:
-  message: "Welcome to accounts-related QA APIs "
+  message: "Building Account Related APIs - Service Discovery Implementation - For QA"
   contactDetails:
     name: "Ankita - QA"
     email: "kita56@gmail.com"
